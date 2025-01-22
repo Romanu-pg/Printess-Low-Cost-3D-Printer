@@ -98,21 +98,21 @@
 #define Z_DIR_PIN                             56
 #define Z_ENABLE_PIN                          62
 
-//6th from left
+//6th from left A
 #ifndef I_STEP_PIN
   #define I_STEP_PIN                         29
   #define I_DIR_PIN                          28
   #define I_ENABLE_PIN                       39
 #endif
 
-//4th from left
+//4th from left B
 #ifndef J_STEP_PIN
   #define J_STEP_PIN                         23
   #define J_DIR_PIN                          22
   #define J_ENABLE_PIN                       24
 #endif
 
-//5th from left
+//5th from left C
 #ifndef K_STEP_PIN
   #define K_STEP_PIN                         26
   #define K_DIR_PIN                          25
